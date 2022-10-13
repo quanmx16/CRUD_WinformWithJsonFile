@@ -1,0 +1,184 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\AAA-LEARNING-DOCUMENT\\2022_Fall\\PRN211\\Code\\Ass01Solution_SE1608_MaiXuanQuan\\TestProject\\TestProject.csproj": {}
+  },
+  "projects": {
+    "E:\\AAA-LEARNING-DOCUMENT\\2022_Fall\\PRN211\\Code\\Ass01Solution_SE1608_MaiXuanQuan\\BusinessObject\\BusinessObject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\AAA-LEARNING-DOCUMENT\\2022_Fall\\PRN211\\Code\\Ass01Solution_SE1608_MaiXuanQuan\\BusinessObject\\BusinessObject.csproj",
+        "projectName": "BusinessObject",
+        "projectPath": "E:\\AAA-LEARNING-DOCUMENT\\2022_Fall\\PRN211\\Code\\Ass01Solution_SE1608_MaiXuanQuan\\BusinessObject\\BusinessObject.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "E:\\AAA-LEARNING-DOCUMENT\\2022_Fall\\PRN211\\Code\\Ass01Solution_SE1608_MaiXuanQuan\\BusinessObject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\AAA-LEARNING-DOCUMENT\\2022_Fall\\PRN211\\Code\\Ass01Solution_SE1608_MaiXuanQuan\\DataAccess\\DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\AAA-LEARNING-DOCUMENT\\2022_Fall\\PRN211\\Code\\Ass01Solution_SE1608_MaiXuanQuan\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "E:\\AAA-LEARNING-DOCUMENT\\2022_Fall\\PRN211\\Code\\Ass01Solution_SE1608_MaiXuanQuan\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "E:\\AAA-LEARNING-DOCUMENT\\2022_Fall\\PRN211\\Code\\Ass01Solution_SE1608_MaiXuanQuan\\DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\AAA-LEARNING-DOCUMENT\\2022_Fall\\PRN211\\Code\\Ass01Solution_SE1608_MaiXuanQuan\\BusinessObject\\BusinessObject.csproj": {
+                "projectPath": "E:\\AAA-LEARNING-DOCUMENT\\2022_Fall\\PRN211\\Code\\Ass01Solution_SE1608_MaiXuanQuan\\BusinessObject\\BusinessObject.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\AAA-LEARNING-DOCUMENT\\2022_Fall\\PRN211\\Code\\Ass01Solution_SE1608_MaiXuanQuan\\TestProject\\TestProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\AAA-LEARNING-DOCUMENT\\2022_Fall\\PRN211\\Code\\Ass01Solution_SE1608_MaiXuanQuan\\TestProject\\TestProject.csproj",
+        "projectName": "TestProject",
+        "projectPath": "E:\\AAA-LEARNING-DOCUMENT\\2022_Fall\\PRN211\\Code\\Ass01Solution_SE1608_MaiXuanQuan\\TestProject\\TestProject.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "E:\\AAA-LEARNING-DOCUMENT\\2022_Fall\\PRN211\\Code\\Ass01Solution_SE1608_MaiXuanQuan\\TestProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\AAA-LEARNING-DOCUMENT\\2022_Fall\\PRN211\\Code\\Ass01Solution_SE1608_MaiXuanQuan\\BusinessObject\\BusinessObject.csproj": {
+                "projectPath": "E:\\AAA-LEARNING-DOCUMENT\\2022_Fall\\PRN211\\Code\\Ass01Solution_SE1608_MaiXuanQuan\\BusinessObject\\BusinessObject.csproj"
+              },
+              "E:\\AAA-LEARNING-DOCUMENT\\2022_Fall\\PRN211\\Code\\Ass01Solution_SE1608_MaiXuanQuan\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "E:\\AAA-LEARNING-DOCUMENT\\2022_Fall\\PRN211\\Code\\Ass01Solution_SE1608_MaiXuanQuan\\DataAccess\\DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

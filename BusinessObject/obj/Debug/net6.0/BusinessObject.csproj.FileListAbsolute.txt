@@ -1,0 +1,12 @@
+E:\AAA-LEARNING-DOCUMENT\2022_Fall\PRN211\Code\Ass01Solution_SE1608_MaiXuanQuan\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+E:\AAA-LEARNING-DOCUMENT\2022_Fall\PRN211\Code\Ass01Solution_SE1608_MaiXuanQuan\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+E:\AAA-LEARNING-DOCUMENT\2022_Fall\PRN211\Code\Ass01Solution_SE1608_MaiXuanQuan\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+E:\AAA-LEARNING-DOCUMENT\2022_Fall\PRN211\Code\Ass01Solution_SE1608_MaiXuanQuan\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+E:\AAA-LEARNING-DOCUMENT\2022_Fall\PRN211\Code\Ass01Solution_SE1608_MaiXuanQuan\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\AAA-LEARNING-DOCUMENT\2022_Fall\PRN211\Code\Ass01Solution_SE1608_MaiXuanQuan\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+E:\AAA-LEARNING-DOCUMENT\2022_Fall\PRN211\Code\Ass01Solution_SE1608_MaiXuanQuan\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+E:\AAA-LEARNING-DOCUMENT\2022_Fall\PRN211\Code\Ass01Solution_SE1608_MaiXuanQuan\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+E:\AAA-LEARNING-DOCUMENT\2022_Fall\PRN211\Code\Ass01Solution_SE1608_MaiXuanQuan\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+E:\AAA-LEARNING-DOCUMENT\2022_Fall\PRN211\Code\Ass01Solution_SE1608_MaiXuanQuan\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+E:\AAA-LEARNING-DOCUMENT\2022_Fall\PRN211\Code\Ass01Solution_SE1608_MaiXuanQuan\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+E:\AAA-LEARNING-DOCUMENT\2022_Fall\PRN211\Code\Ass01Solution_SE1608_MaiXuanQuan\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
